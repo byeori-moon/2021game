@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 2021-12-21 AM 5:10:44 : Starting /Volumes/Samsung_T5/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.835ms
+moved types parse time: 148ms
+candidates parse time : 6ms
+C# parse time         : 491ms
+candidates check time : 85ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2021-12-21 AM 5:14:02 : Starting /Volumes/Samsung_T5/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 227.495ms
+moved types parse time: 142ms
+candidates parse time : 7ms
+C# parse time         : 501ms
+candidates check time : 104ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2021-12-21 AM 5:16:27 : Starting /Volumes/Samsung_T5/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 212.062ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 459ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2021-12-21 AM 6:12:30 : Starting /Volumes/Samsung_T5/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 211.975ms
+moved types parse time: 141ms
+candidates parse time : 8ms
+C# parse time         : 502ms
+candidates check time : 95ms
+console write time    : 4ms
+
